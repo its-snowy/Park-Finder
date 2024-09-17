@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006525163225",
+    "project_id": "park-finder-73fb4",
+    "storage_bucket": "park-finder-73fb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006525163225:android:d4f48b6ac76f6309fc00c8",
+        "android_client_info": {
+          "package_name": "com.example.park_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwq9xqChzrUyZywVgQ1DyemCQzveTVnbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
